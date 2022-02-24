@@ -1,4 +1,5 @@
-Working on ML/DL Study!
+Working on ML/DL Study 
+Taking a Step to Javascript !
 
 <!---
 sjjung-june/sjjung-june is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
